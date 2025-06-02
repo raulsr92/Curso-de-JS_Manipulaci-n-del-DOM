@@ -1,0 +1,21 @@
+.menu{
+    background-color: blue;
+    font-size: 16px;
+    color: white;
+}
+
+.menu a{
+    color: white;
+}
+
+.main-menu{
+    color: green;
+}
+
+.visible{
+    display: block;
+}
+
+.invisible{
+    display: none;
+}
